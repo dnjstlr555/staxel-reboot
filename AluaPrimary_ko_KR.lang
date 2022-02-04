@@ -1,0 +1,38 @@
+﻿language.code=ko-KR
+language=한국어
+//[Reference] 'Oh! Well this is a little disappointing...'
+staxel.village.dialogue.Alua.line:10001400=아! 이건 좀 아쉬운데...
+//[Reference] 'I had hoped he'd come and do it himself...'
+staxel.village.dialogue.Alua.line:10001500=직접 와서 해 주길 바랐건만...
+//[Reference] 'Oh! But maybe that was a bit rude of me.'
+staxel.village.dialogue.Alua.line:10001600=아! 그래도 내가 무례했을지도 몰라.
+//[Reference] 'I didn't mean to suggest I wasn't thankful!'
+staxel.village.dialogue.Alua.line:10001700=내가 고맙게 생각하지 않은건 아니었다구!
+//[Reference] 'Just disappointed. In the circumstances. Not in you.'
+staxel.village.dialogue.Alua.line:10001800=그냥.. 실망한거야. 그 상황에 대해서. 너한테 실망한게 아니라.
+//[Reference] 'I suppose I should give you some kind of reward?'
+staxel.village.dialogue.Alua.line:10001900=너한테 보상을 줘야 될까?
+//[Reference] 'Maybe that will be of some use to you?'
+staxel.village.dialogue.Alua.line:10002000=너한테 도움이 되려나?
+//[Reference] 'Could you deliver that to ^c:1486b0;Oscar^c:pop;?'
+staxel.village.dialogue.Alua.line:10002100=이걸 ^c:1486b0;오스카^c:pop;에게 가져다 줄래?
+//[Reference] 'I want to thank him too...'
+staxel.village.dialogue.Alua.line:10002200=그분께도 감사를 드리고 싶어...
+//[Reference] 'Oh, hello ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.Alua.line:10002300=아 반가워, ^c:1486b0;{0-playername}^c:pop;!
+//[Reference] 'How have you fared of late?'
+staxel.village.dialogue.Alua.line:10002400=잘 지내?
+//[Reference] '^c:1486b0;Oscar^c:pop; really does keep this place tidy...'
+staxel.village.dialogue.Alua.line:10002500=^c:1486b0;오스카^c:pop;가 참 여기 주변 청소를 잘해...
+//[Reference] 'I wonder how he manages to find the time to clean an entire village by himself?'
+staxel.village.dialogue.Alua.line:10002600=근데 청소를 하면 할수록 더러워진다는 저주를 가진 사실은 언제쯤 알아챌려나?
+//[Reference] 'Where do I live?'
+staxel.village.dialogue.Alua.line:10002700=내가 어디서 사냐고?
+//[Reference] 'Why, I certainly cannot tell you that! We fey value our privacy!'
+staxel.village.dialogue.Alua.line:10002800=왜, 그런건 당연히 말할 수 없지. 우리 요정들은 프라이버시를 중요시 한다구!
+//[Reference] 'Do I miss being coated in rubbish?'
+staxel.village.dialogue.Alua.line:10002900=내가 쓰레기더미 안에 있던걸 그리워 하냐고?
+//[Reference] 'Well... I did spend many a year that way...'
+staxel.village.dialogue.Alua.line:10003000=뭐... 내가 그런 식으로 오랫동안 있긴 했지...
+//[Reference] 'But no, of course not! I had even begun to forget the scent of flowers!'
+staxel.village.dialogue.Alua.line:10003100=그치만 당연히 아니지!
