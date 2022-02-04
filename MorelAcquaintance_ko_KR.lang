@@ -1,13 +1,13 @@
 ﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] '...'
-staxel.village.character.dialogue.MorelAcquaintance.line:10000100=
+staxel.village.character.dialogue.MorelAcquaintance.line:10000100=...
 //TODO Translate [Reference] '...'
-staxel.village.character.dialogue.MorelAcquaintance.line:10000200=
+staxel.village.character.dialogue.MorelAcquaintance.line:10000200=...
 //TODO Translate [Reference] '...'
-staxel.village.character.dialogue.MorelAcquaintance.line:10000300=
+staxel.village.character.dialogue.MorelAcquaintance.line:10000300=...
 //TODO Translate [Reference] 'Oh, hello, ^c:1486b0;{0-playername}^c:pop;.'
-staxel.village.character.dialogue.MorelAcquaintance.line:10000400=
+staxel.village.character.dialogue.MorelAcquaintance.line:10000400=어 안녕, ^c:1486b0;{0-playername}^c:pop;.
 //TODO Translate [Reference] 'Are you here to talk about the mushrooms?'
 staxel.village.character.dialogue.MorelAcquaintance.line:10000500=
 //TODO Translate [Reference] '...'
