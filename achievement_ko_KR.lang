@@ -369,7 +369,7 @@ staxel.achievements.UseRecipeOverlay=조리법 알리미 사용하기
 //[Reference] 'Crops watered'
 staxel.achievements.WaterCrop.text=물 뿌려짐
 //TODO Translate [Reference] 'Catch one of each bug found on the Galaxy Island.'
-staxel.collector.achievements.GalaxyBugs.description=
+staxel.collector.achievements.GalaxyBugs.description=은하수 섬에 있는 곤충을 채집하세요.
 //TODO Translate [Reference] 'Galactic Entomology'
 staxel.collector.achievements.GalaxyBugs.name=
 //TODO Translate [Reference] 'Catch one of each fish found on the Galaxy Island.'
