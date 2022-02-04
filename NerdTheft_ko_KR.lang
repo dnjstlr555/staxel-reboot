@@ -1,6 +1,6 @@
 ﻿language.code=ko-KR
 language=한국어
 //TODO Translate [Reference] 'They're saying there's a thief in town!'
-staxel.village.dialogue.NerdTheft.line:10000100=
+staxel.village.dialogue.NerdTheft.line:10000100=우리 마을에 도둑이 들었대!
 //TODO Translate [Reference] 'If only superheroes were real...'
-staxel.village.dialogue.NerdTheft.line:10000200=
+staxel.village.dialogue.NerdTheft.line:10000200=슈퍼히어로가 진짜로 있었으면 좋겠다..
