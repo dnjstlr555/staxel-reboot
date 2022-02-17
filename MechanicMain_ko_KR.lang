@@ -1,17 +1,17 @@
 ﻿language.code=ko-KR
 language=한국어
 //[Reference] 'Hey, wanna give me a ha-'
-staxel.village.dialogue.Mechanic.line:10000100=안녕 친구, 하이파이ㅂ..
+staxel.village.dialogue.Mechanic.line:10000100=야! 잘 지냈나? 하이파이ㅂ..
 //[Reference] 'Hmm. Not sure I've seen ya around.'
-staxel.village.dialogue.Mechanic.line:10000200=흠. 이 주변에서는 못보던 얼굴이네.
+staxel.village.dialogue.Mechanic.line:10000200=흠. 여선 못보던 얼굴인디.
 //[Reference] 'I'd shake yer 'and but I don't think ya'd appreciate the oil!'
-staxel.village.dialogue.Mechanic.line:10000300=악수하고 싶지만 기름 때문에 손이 더러워질 것 같아.
+staxel.village.dialogue.Mechanic.line:10000300=악수하고 싶지만 기름묻은 손을 좋아할 것 같아 보이진 않
 //[Reference] 'The name's ^c:1486b0;{0-name}^c:pop; though.'
-staxel.village.dialogue.Mechanic.line:10000400=어쨌든 나는 ^c:1486b0;{0-name}^c:pop; 야.
+staxel.village.dialogue.Mechanic.line:10000400= 나는 ^c:1486b0;{0-name}^c:pop;이라칸다.
 //[Reference] 'If y'ever have any crafting needs, I can help out!'
-staxel.village.dialogue.Mechanic.line:10000500=뭔가 만들고 싶은 것이 있으면, 내가 도와줄께!
+staxel.village.dialogue.Mechanic.line:10000500=머 필요한 거 만들라 카면, 내한테 온나!
 //[Reference] 'Hmm? Is that yer ^c:d03e37;farm license^c:pop;?'
-staxel.village.dialogue.Mechanic.line:10000600=응? 그건 ^c:d03e37;농사 자격증^c:pop;이야?
+staxel.village.dialogue.Mechanic.line:10000600=음? 그거 ^c:d03e37;농사 자격증^c:pop; 아이가?
 //[Reference] 'I'm guessin' ^c:1486b0;{0-mayor_name}^c:pop; sent ya about the ^c:1486b0;barn^c:pop; then?'
 staxel.village.dialogue.Mechanic.line:10000700=아마도.. ^c:1486b0;{0-mayor_name}^c:pop; 때문에 ^c:1486b0;헛간^c:pop;을 보러 왔겠네?
 //[Reference] 'It's a bit of a task, but I figure it'll get ya familiar with workin' around here!'
@@ -241,19 +241,19 @@ staxel.village.dialogue.Mechanic.line:10010100=
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, I hate to be the one to say this, but yer buildin' too much!'
 staxel.village.dialogue.Mechanic.line:10010200=
 //TODO Translate [Reference] 'At this rate, I'm never gonna be able to keep up with yer demand for resources!'
-staxel.village.dialogue.Mechanic.line:10010300=
+staxel.village.dialogue.Mechanic.line:10010300=이대로 갔다간 
 //TODO Translate [Reference] 'We jus' don' have the supplies...'
-staxel.village.dialogue.Mechanic.line:10010400=
+staxel.village.dialogue.Mechanic.line:10010400=우린 그냥 공급이 부족한기라...
 //TODO Translate [Reference] 'Now...if ya'd be willin' to help with tha', we might be able to change things for the better!'
 staxel.village.dialogue.Mechanic.line:10010500=
 //TODO Translate [Reference] 'How about ya start with a quick survey of the island as a whole?'
 staxel.village.dialogue.Mechanic.line:10010600=
 //TODO Translate [Reference] 'Jus' run around a bit an' bring me ^c:d03e37;50 raw stone^c:pop; an' ^c:d03e37;50 raw wood^c:pop;.'
-staxel.village.dialogue.Mechanic.line:10010700=
+staxel.village.dialogue.Mechanic.line:10010700=밖에 돌아댕기가 ^c:d03e37;50 생돌^c:pop;이랑 ^c:d03e37;50 생나무^c:pop; 좀 갖다도.
 //TODO Translate [Reference] 'See if ya can find some promisin' sources!'
 staxel.village.dialogue.Mechanic.line:10010800=
 //TODO Translate [Reference] 'Any luck findin' us some new sources o' raw materials?'
-staxel.village.dialogue.Mechanic.line:10010900=
+staxel.village.dialogue.Mechanic.line:10010900=.
 //TODO Translate [Reference] 'Jus' wander a bit and see if ya can find a good place to get ^c:d03e37;50 raw stone^c:pop; an' ^c:d03e37;50 raw wood^c:pop;.'
 staxel.village.dialogue.Mechanic.line:10011000=
 //TODO Translate [Reference] 'Ah, so ya did manage to find some untapped sources, did ya? That's good to hear.'
