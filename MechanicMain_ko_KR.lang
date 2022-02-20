@@ -5,55 +5,55 @@ staxel.village.dialogue.Mechanic.line:10000100=야! 잘 지냈나? 하이파이�
 //[Reference] 'Hmm. Not sure I've seen ya around.'
 staxel.village.dialogue.Mechanic.line:10000200=흠. 여선 못보던 얼굴인디.
 //[Reference] 'I'd shake yer 'and but I don't think ya'd appreciate the oil!'
-staxel.village.dialogue.Mechanic.line:10000300=악수하고 싶지만 기름묻은 손을 좋아할 것 같아 보이진 않
+staxel.village.dialogue.Mechanic.line:10000300=악수라도 할까 싶었드만 기름묻은 손을 좋아할 것 같아 보이진 않네!
 //[Reference] 'The name's ^c:1486b0;{0-name}^c:pop; though.'
-staxel.village.dialogue.Mechanic.line:10000400= 나는 ^c:1486b0;{0-name}^c:pop;이라칸다.
+staxel.village.dialogue.Mechanic.line:10000400=나는 ^c:1486b0;{0-name}^c:pop;이라칸다.
 //[Reference] 'If y'ever have any crafting needs, I can help out!'
-staxel.village.dialogue.Mechanic.line:10000500=머 필요한 거 만들라 카면, 내한테 온나!
+staxel.village.dialogue.Mechanic.line:10000500=필요한 걸 만들라 카면, 언제든 내한테 온나!
 //[Reference] 'Hmm? Is that yer ^c:d03e37;farm license^c:pop;?'
 staxel.village.dialogue.Mechanic.line:10000600=음? 그거 ^c:d03e37;농사 자격증^c:pop; 아이가?
 //[Reference] 'I'm guessin' ^c:1486b0;{0-mayor_name}^c:pop; sent ya about the ^c:1486b0;barn^c:pop; then?'
-staxel.village.dialogue.Mechanic.line:10000700=아마도.. ^c:1486b0;{0-mayor_name}^c:pop; 때문에 ^c:1486b0;헛간^c:pop;을 보러 왔겠네?
+staxel.village.dialogue.Mechanic.line:10000700=아마도.. ^c:1486b0;헛간^c:pop;때문에 ^c:1486b0;{0-mayor_name}^c:pop;이 보냈는갑네?
 //[Reference] 'It's a bit of a task, but I figure it'll get ya familiar with workin' around here!'
-staxel.village.dialogue.Mechanic.line:10000800=좀 귀찮긴 하지만 여기 일에 익숙해지는데 딱 좋을거야.
+staxel.village.dialogue.Mechanic.line:10000800=좀 노가다긴 하지만, 이런 일에 익숙해지는게 좋을기다.
 //[Reference] 'Wonderful work ^c:1486b0;{0-playername}^c:pop;!'
-staxel.village.dialogue.Mechanic.line:10000900=대단해 {0-playername}!
+staxel.village.dialogue.Mechanic.line:10000900=이야, 걸작을 뽑았드만 ^c:1486b0;{0-playername}^c:pop;!
 //[Reference] 'That barn almos' brought a tear ta my eye!'
-staxel.village.dialogue.Mechanic.line:10001000=헛간 보고 눈물 날 뻔했어!!
+staxel.village.dialogue.Mechanic.line:10001000=거의 눈물이 날 지경이다!
 //[Reference] 'If ya haven't been ta see him already, I think ^c:1486b0;{0-mayor_name}^c:pop; would love ta hear about it too!'
-staxel.village.dialogue.Mechanic.line:10001010=이건 꼭 널리 알려야돼. ^c:1486b0;{0-mayor_name}^c:pop;한테도 알려줘. 분명 기뻐할꺼야!
+staxel.village.dialogue.Mechanic.line:10001010=아직 안봤으믄 ^c:1486b0;{0-mayor_name}^c:pop;한테도 가봐라, 분명 좋아라 할기라!
 //[Reference] 'I hope ta see more o' yer good work around the place!'
-staxel.village.dialogue.Mechanic.line:10001020=이런 걸작품이 나오면 또 불러줘.
+staxel.village.dialogue.Mechanic.line:10001020=이런 걸작이 또 나오면 꼭 불러도!
 //[Reference] 'Come back anytime ya need some materials from the store or some advice!'
-staxel.village.dialogue.Mechanic.line:10001030=아니면 건축 재료가 필요하거나, 조언이 필요할 때 언제든지 들려줘!
+staxel.village.dialogue.Mechanic.line:10001030=건축 재료나 조언이 필요할 때도 언제든지 온나!
 //[Reference] 'See, this here is a ^c:d03e37;marker^c:pop; designed ta plot out the land belongin' to the ^c:1486b0;barn^c:pop;.'
-staxel.village.dialogue.Mechanic.line:10001100=여기. 이 ^c:d03e37;표지판^c:pop;은 ^c:1486b0;헛간^c:pop; 만드는 곳을 표시하는데 쓰는거야.
+staxel.village.dialogue.Mechanic.line:10001100=자, 이 ^c:d03e37;표지판^c:pop;은 ^c:1486b0;헛간^c:pop;을 표시하는데 쓰는기다.
 //[Reference] 'They come in aaall shapes and sizes. Ya seen the ^c:d03e37;mailboxes^c:pop; around? Same deal.'
-staxel.village.dialogue.Mechanic.line:10001200=어떤 형태나 크기에도 대응할 수 있지. 음하하. 이 근처에서 ^c:d03e37;우체통^c:pop;같은 거 본적있어? 같은거야.
+staxel.village.dialogue.Mechanic.line:10001200=표지판은 여러 모양으로 있는데, 근처에서 ^c:d03e37;우체통^c:pop;같은 거 본 적 있을기라. 그것도 같은기다.
 //[Reference] 'Jus' shove 'er into the ground-makin' sure ya got the rotation right!-and you'll be on track in no time!'
-staxel.village.dialogue.Mechanic.line:10001300=방향을 똑바로 맞춘 다음에 바닥에다 박아버려. 그 다음에는 바로 공사 시작이야!
+staxel.village.dialogue.Mechanic.line:10001300=방향을 똑바로 맞춘 다음에 바닥에다 꽂아뿌고 바로 공사 시작하믄 된다!
 //[Reference] 'You can take a look at it anytime after that to get an idea of what's missin'!'
-staxel.village.dialogue.Mechanic.line:10001400=만들다가 뭔가 이상하다 싶으면 표지판을 다시 봐봐. 뭐를 놓쳤는지 볼수 있어.
+staxel.village.dialogue.Mechanic.line:10001400=만들다가 뭔가 이상하다 싶을때 표지판을 보면 뭐를 놓쳤는지 볼 수 있을기다.
 //[Reference] 'HOWEVER! And keep this firmly in mind!'
-staxel.village.dialogue.Mechanic.line:10001500=하지만! 이 일을 절대 잊지 마!
+staxel.village.dialogue.Mechanic.line:10001500=하지만! 절대로 까묵지 마래이!
 //[Reference] 'That ^c:1486b0;barn^c:pop; ain't gonna build itself. You gotta do that part yerself.'
-staxel.village.dialogue.Mechanic.line:10001600=그 ^c:1486b0;헛간^c:pop;은 절대로 알아서 건축되지는 않아. 건축은 스스로하는거야.
+staxel.village.dialogue.Mechanic.line:10001600=그 ^c:1486b0;헛간^c:pop;은 절대로 알아서 만들어지는기 아이라. 건축은 스스로 하는기다.
 //[Reference] 'You'll have ta chop down trees fer ^c:d03e37;wood^c:pop;, turn 'em into blocks, and build it up bit by bit.'
-staxel.village.dialogue.Mechanic.line:10001700=먼저 나무부터 베어서 ^c:d03e37;목재^c:pop;를 준비하자. 그리고 하나 하나씩 쌓아가는거야.
+staxel.village.dialogue.Mechanic.line:10001700=먼저  ^c:d03e37;목재^c:pop;가 좀 필요할기라. 나무를 베어가, 블럭으로 만들어서 하나하나 쌓아가봐라.
 //[Reference] ''Course, ya can always buy some o' the blocks at the ^c:1486b0;buildin' store^c:pop;.'
-staxel.village.dialogue.Mechanic.line:10001800=물론 일부 블록들은 우리 가게 ^c:1486b0;건축자재 상점^c:pop;에서 살수도 있어.
+staxel.village.dialogue.Mechanic.line:10001800=물론 필요한게 있다면 언제든 내 ^c:1486b0;건축자재 상점^c:pop;에서 살 수도 있다.
 //[Reference] 'Others parts might be a bit harder to come by...'
 staxel.village.dialogue.Mechanic.line:10001900=그래도 사는건 쉽지만 만드는건 어렵다구.
 //[Reference] 'Now off you trot. Go find a nice spot for that ^c:1486b0;barn^c:pop; and come back to me with some ^c:d03e37;wood^c:pop;!'
-staxel.village.dialogue.Mechanic.line:10002000=아무튼 갔다와. ^c:1486b0;헛간^c:pop;이 들어가기 딱 알맞은 장소를 찾고 그담에 ^c:d03e37;목재^c:pop;를 가지고 와줘.
+staxel.village.dialogue.Mechanic.line:10002000=머 일단 갔다온나. ^c:1486b0;헛간^c:pop;을 지을 명당을 찾은 담에^c:d03e37;목재^c:pop;를 찾아오면 될기라.
 //[Reference] 'An ^c:d03e37;axe^c:pop; oughta help out with that!'
-staxel.village.dialogue.Mechanic.line:10002100=그러기 위해선 ^c:d03e37;도끼^c:pop; 가 필요하겠지. 여깄어.
+staxel.village.dialogue.Mechanic.line:10002100=그전에 ^c:d03e37;도끼^c:pop;가 필요하긋제. 여있다.
 //[Reference] 'Once ya have the ^c:d03e37;wood^c:pop; in hand, I'll show ya how ta turn it inta more interestin' things!'
-staxel.village.dialogue.Mechanic.line:10002200=^c:d03e37;목재^c:pop;를 가지고 오면 더 재미있는 것으로 바꾸는 방법을 보여 줄께!
+staxel.village.dialogue.Mechanic.line:10002200=^c:d03e37;목재^c:pop;를 가지고 오면 더 재미있는 것으로 바꾸는 방법을 보여 줄게!
 //[Reference] 'Ready ta learn the ways o' the master builder?'
-staxel.village.dialogue.Mechanic.line:10002300=건설 마스터의 길을 걸을 준비 됬어?
+staxel.village.dialogue.Mechanic.line:10002300=건설 마스터의 길을 걸을 준비 됐나?
 //[Reference] 'It's actually pretty easy!'
-staxel.village.dialogue.Mechanic.line:10002400=사실은 간단하지롱!
+staxel.village.dialogue.Mechanic.line:10002400=실은 좀 간단하다!
 //[Reference] 'All ya need is three things: ingredients, a ^c:d03e37;blueprint or recipe^c:pop;, and ^c:d03e37;craftin' stations^c:pop;.'
 staxel.village.dialogue.Mechanic.line:10002500=재료랑 ^c:d03e37;조합법 아니면 레시피^c:pop;, 그리고 ^c:d03e37;제작대^c:pop;만 있으면 돼.
 //[Reference] 'The stations ya need ta get the ^c:1486b0;barn^c:pop; done are all set up in the ^c:1486b0;buildin' store^c:pop; already.'
@@ -79,17 +79,17 @@ staxel.village.dialogue.Mechanic.line:10003500=기억했으면 가방에 조합�
 //[Reference] 'I'll give ya a moment ta do that. Talk to me again when yer all set!'
 staxel.village.dialogue.Mechanic.line:10003600=아무튼 이 조합법을 보고와. 다 했으면 나한테 말을 걸어줘!
 //[Reference] 'With that outta the way, it's just a case o' putting the bits and pieces together!'
-staxel.village.dialogue.Mechanic.line:10003700=자, 조합법은 됬고 이제 이것저것 조립할 시간이야!
+staxel.village.dialogue.Mechanic.line:10003700=자, 조합법은 됐고 이제 이것저것 조립할 차례다!
 //[Reference] 'Each step in the ^c:d03e37;blueprint^c:pop; uses a particular type o' ^c:d03e37;craftin' station^c:pop;.'
-staxel.village.dialogue.Mechanic.line:10003800=^c:d03e37;조합법^c:pop;에 맞게 뭔가를 만드려면 여러가지 단계가 있는데, 각각의 단계에 필요한 ^c:d03e37;제작대^c:pop;를 사용하게 되.
+staxel.village.dialogue.Mechanic.line:10003800=니가 ^c:d03e37;조합법^c:pop;에 맞게 뭔가를 만들땐 여러 단계가 있는데, 각각 필요한 ^c:d03e37;제작대^c:pop;를 써야한대이.
 //[Reference] 'If ya need ta ^c:d03e37;saw^c:pop; somethin', a ^c:d03e37;saw bench^c:pop; will do that for ye!'
-staxel.village.dialogue.Mechanic.line:10003900=만약 너가 ^c:d03e37;톱^c:pop;을 쓰고싶으면, ^c:d03e37;제재소 톱^c:pop;을 사용하라구.
+staxel.village.dialogue.Mechanic.line:10003900=만약 ^c:d03e37;톱^c:pop;으로 뭔가 썰어야한다 치면, ^c:d03e37;제재소 톱^c:pop;을 쓰면 되고.
 //[Reference] 'If ya wanna ^c:d03e37;assemble^c:pop; somethin', an ^c:d03e37;assembly station^c:pop; is the way to go!'
-staxel.village.dialogue.Mechanic.line:10004000=아니면 ^c:d03e37;조립^c:pop;해야 될때는 ^c:d03e37;조립대^c:pop;가 필요하고.
+staxel.village.dialogue.Mechanic.line:10004000=^c:d03e37;조립^c:pop;을 하고 싶을때는 ^c:d03e37;조립대^c:pop;를 쓰면 된다.
 //[Reference] 'Makes sense right?'
-staxel.village.dialogue.Mechanic.line:10004100=이해되지?
+staxel.village.dialogue.Mechanic.line:10004100=말 되제?
 //[Reference] 'Ya wanna set the items down on the left side o' the station. The final result ya take from the right!'
-staxel.village.dialogue.Mechanic.line:10004120=재료로 쓸 물건들을 왼쪽에다 올리고 만들어. 물건이 다 만들어지면 오른쪽에서 꺼내면 돼.
+staxel.village.dialogue.Mechanic.line:10004120=재료로 쓸 물건들을 왼쪽에다 올려놓고 물건이 다 만들어지면 오른쪽에서 꺼내면 돼.
 //[Reference] 'Interactin' with the middle o' the station will usually set 'er goin'!'
 staxel.village.dialogue.Mechanic.line:10004140=그리고... 제작대 가운데에 서서 작업을 하면 더 편해지지!
 //[Reference] 'These should cover some o' the items needed ta make the ^c:d03e37;trough^c:pop;.'
@@ -115,89 +115,89 @@ staxel.village.dialogue.Mechanic.line:10004590=그냥 어떻게 만들든 표시
 //[Reference] 'I'll be waitin' to hear all about it when yer done!'
 staxel.village.dialogue.Mechanic.line:10004600=완성하면 알려줘!
 //[Reference] 'How's that ^c:1486b0;barn^c:pop; goin'?'
-staxel.village.dialogue.Mechanic.line:10004700=안녕! ^c:1486b0;헛간^c:pop;은 잘 되가니?
+staxel.village.dialogue.Mechanic.line:10004700=^c:1486b0;헛간^c:pop;은 어케됐노?
 //[Reference] 'Makin' good progress?'
-staxel.village.dialogue.Mechanic.line:10004800=이상한건 없고?
+staxel.village.dialogue.Mechanic.line:10004800=잘 돼가나?
 //[Reference] 'Come see me with yer ^c:d03e37;farm license^c:pop;.'
-staxel.village.dialogue.Mechanic.line:10004900=^c:d03e37;농장 자격증^c:pop;를 갖고 있을때에 나에게 와봐.
+staxel.village.dialogue.Mechanic.line:10004900=^c:d03e37;농장 자격증^c:pop;을 갖고 내한테 온나.
 //[Reference] 'You'll get it from ^c:1486b0;Farm Fan^c:pop;!'
-staxel.village.dialogue.Mechanic.line:10004950=^c:1486b0;팜팬^c:pop;이 가지고 있을꺼야!
+staxel.village.dialogue.Mechanic.line:10004950=아마 ^c:1486b0;팜팬^c:pop;이 니한테 줄기다!
 //[Reference] '^c:1486b0;Mayor^c:pop; said ta give a good rundown on buildin' once ya had it.'
-staxel.village.dialogue.Mechanic.line:10005000=^c:1486b0;Mayor^c:pop; 는 당신이 그걸 가지고 있을 때 가르치라고 말했어.
+staxel.village.dialogue.Mechanic.line:10005000=^c:1486b0;이장^c:pop;이 니가 그걸 갖고있을때 가르쳐주라캤다.
 //[Reference] 'Hmmm... didja lose yer ^c:d03e37;barn sign^c:pop;?'
-staxel.village.dialogue.Mechanic.line:10005100=흠... 혹시 ^c:d03e37;barn sign^c:pop;를 잃어버린거야?
+staxel.village.dialogue.Mechanic.line:10005100=흠... 혹시 ^c:d03e37;barn sign^c:pop;를 잃어버맀나?
 //[Reference] 'I can give ya a new one, but it'll cost ya {0-currency}{1-sign}...'
-staxel.village.dialogue.Mechanic.line:10005200=만들어 줄수는 있는데 {0-currency}{1-sign}가 필요해...
+staxel.village.dialogue.Mechanic.line:10005200=하나 만들어줄게, {0-currency}{1-sign}가 좀 필요할기다.
 //[Reference] 'Yes please!'
-staxel.village.dialogue.Mechanic.line:10005300=부탁해!
+staxel.village.dialogue.Mechanic.line:10005300=부탁해요!
 //[Reference] 'Not right now.'
-staxel.village.dialogue.Mechanic.line:10005400=사양할께.
+staxel.village.dialogue.Mechanic.line:10005400=지금 말고요.
 //[Reference] 'Alrighty then!'
 staxel.village.dialogue.Mechanic.line:10005450=좋아!
 //[Reference] 'Alrighty then!'
-staxel.village.dialogue.Mechanic.line:10005500=그래 좋아!
+staxel.village.dialogue.Mechanic.line:10005500=그래!
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10005600=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10005600=그래, 여 있다!
 //[Reference] 'I'm afraid ya can't afford that...'
 staxel.village.dialogue.Mechanic.line:10005700=그것을 살 여유가 없어...
 //[Reference] 'Maybe come back later?'
-staxel.village.dialogue.Mechanic.line:10005800=나중에 올꺼지?
+staxel.village.dialogue.Mechanic.line:10005800=나중에 올라고?
 //[Reference] 'Mmm... looks like the ^c:d03e37;{0-ttm}^c:pop; is missin'...'
 staxel.village.dialogue.Mechanic.line:10005900=음... 내가 보기엔 ^c:d03e37;{0-ttm}^c:pop;가 없는거 같은데...
 //[Reference] 'I can give ya a new one, but it'll cost ya {0-currency}{1-price}...'
-staxel.village.dialogue.Mechanic.line:10006000=만들어 줄수는 있는데 {0-currency}{1-price}가 필요해...
+staxel.village.dialogue.Mechanic.line:10006000=만들어 줄수는 있는데 {0-currency}{1-price}가 필요하다.
 //[Reference] 'Yes please!'
-staxel.village.dialogue.Mechanic.line:10006100=부탁해!
+staxel.village.dialogue.Mechanic.line:10006100=부탁해요!
 //[Reference] 'Not right now.'
-staxel.village.dialogue.Mechanic.line:10006200=사양할께.
+staxel.village.dialogue.Mechanic.line:10006200=지금 말고요.
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10006300=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10006300=그래, 여 있다!
 //[Reference] 'So m'store is in a bit o' trouble eh?'
-staxel.village.dialogue.Mechanic.line:10006400=내 가게는 조금 곤란해...
+staxel.village.dialogue.Mechanic.line:10006400=내 가게는 조금 곤란해.
 //[Reference] 'I can sell ya some bits to fix 'er up at a premium if ya need...'
 staxel.village.dialogue.Mechanic.line:10006500=너가 원한다면 높은 가격에 일부 부품을 판매할수 있는데...
 //[Reference] 'What can I do ya for?'
-staxel.village.dialogue.Mechanic.line:10006600=무슨 용건이니?
+staxel.village.dialogue.Mechanic.line:10006600=머 해줄까?
 //TODO Translate [Reference] 'Cash Register ({0-currency}{1-reg})'
-staxel.village.dialogue.Mechanic.line:10006700=
+staxel.village.dialogue.Mechanic.line:10006700=계산대
 //TODO Translate [Reference] 'Shelves ({0-currency}{1-shelf})'
-staxel.village.dialogue.Mechanic.line:10006800=
+staxel.village.dialogue.Mechanic.line:10006800=선반
 //TODO Translate [Reference] 'Tiling Station ({0-currency}{1-tile})'
 staxel.village.dialogue.Mechanic.line:10006900=
 //TODO Translate [Reference] 'Assembly Station ({0-currency}{1-assem})'
-staxel.village.dialogue.Mechanic.line:10007000=
+staxel.village.dialogue.Mechanic.line:10007000=조립대
 //TODO Translate [Reference] 'Table Saw ({0-currency}{1-saw})'
 staxel.village.dialogue.Mechanic.line:10007100=
 //TODO Translate [Reference] 'Counter ({0-currency}{1-counter})'
-staxel.village.dialogue.Mechanic.line:10007110=
+staxel.village.dialogue.Mechanic.line:10007110=카운터
 //TODO Translate [Reference] 'Door ({0-currency}{1-door})'
-staxel.village.dialogue.Mechanic.line:10007120=
+staxel.village.dialogue.Mechanic.line:10007120=문
 //[Reference] 'Nothing right now'
-staxel.village.dialogue.Mechanic.line:10007200=지금은 아무것도 없어.
+staxel.village.dialogue.Mechanic.line:10007200=지금은 없어요.
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007300=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10007300=그래, 여 있다!
 //TODO Translate [Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007310=
+staxel.village.dialogue.Mechanic.line:10007310=그래, 여 있다!
 //TODO Translate [Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007320=
+staxel.village.dialogue.Mechanic.line:10007320=그래, 여 있다!
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007400=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10007400=그래, 여 있다!
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007500=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10007500=그래, 여 있다!
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007600=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10007600=그래, 여 있다!
 //[Reference] 'Alrighty, here ya go!'
-staxel.village.dialogue.Mechanic.line:10007700=좋아, 자 여기 있어!
+staxel.village.dialogue.Mechanic.line:10007700=그래, 여 있다!
 //[Reference] 'Ya need some bits ta fix up the ^c:1486b0;grocery store^c:pop;?'
-staxel.village.dialogue.Mechanic.line:10007800=^c:1486b0;grocery store^c:pop;를 수리하는 데는 몇개의 부품이 필요해.
+staxel.village.dialogue.Mechanic.line:10007800=^c:1486b0;grocery store^c:pop;를 수리하는데 머가 좀 필요하나?
 //TODO Translate [Reference] 'Cash Register ({0-currency}{1-reg})'
-staxel.village.dialogue.Mechanic.line:10007900=
+staxel.village.dialogue.Mechanic.line:10007900=금전등록기
 //TODO Translate [Reference] 'Shelves ({0-currency}{1-shelf})'
-staxel.village.dialogue.Mechanic.line:10008000=
+staxel.village.dialogue.Mechanic.line:10008000=선반
 //TODO Translate [Reference] 'Counter ({0-currency}{1-counter})'
-staxel.village.dialogue.Mechanic.line:10008010=
+staxel.village.dialogue.Mechanic.line:10008010=카운터
 //[Reference] 'Nothing right now'
-staxel.village.dialogue.Mechanic.line:10008100=지금은 아무것도 없어.
+staxel.village.dialogue.Mechanic.line:10008100=지금은 없어요.
 //TODO Translate [Reference] 'Doin' alright, ^c:1486b0;{0-playername}^c:pop;?'
 staxel.village.dialogue.Mechanic.line:10008200=
 //TODO Translate [Reference] 'I've been thinkin' a lot recently...'
@@ -229,21 +229,21 @@ staxel.village.dialogue.Mechanic.line:10009500=
 //TODO Translate [Reference] 'I swear, I jus' gotta blink and suddenly the work's all done!'
 staxel.village.dialogue.Mechanic.line:10009600=
 //TODO Translate [Reference] 'Maybe I'm jus' too used to the ol' style of contractors...'
-staxel.village.dialogue.Mechanic.line:10009700=
+staxel.village.dialogue.Mechanic.line:10009700=내가 너무 옛날 스타일에 익숙해졌었는갑다...
 //TODO Translate [Reference] 'Now, the job itself may be the main reward, but I thought I'd give ya a little somethin' extra!'
 staxel.village.dialogue.Mechanic.line:10009800=
 //TODO Translate [Reference] 'Let's see how well ^c:1486b0;Leif^c:pop; does at outshinin' us now, eh?'
-staxel.village.dialogue.Mechanic.line:10009900=
-//TODO Translate [Reference] 'Hm? You wanna know about ^c:1486b0;Rosie's^c:pop; ol' rabbit?'
-staxel.village.dialogue.Mechanic.line:10010000=
+staxel.village.dialogue.Mechanic.line:10009900=어디, ^c:1486b0;레이프^c:pop;가 우리보다 얼마나 잘하나 함 보자!
+//TODO Translate [Reference] '엉? ^c:1486b0;로즈마리^c:pop;가 옛날에 키우던 토끼 말이가?'
+staxel.village.dialogue.Mechanic.line:10010000=엉? ^c:1486b0;로즈마리^c:pop;가 옛날에 키우던 토끼 말이가?
 //TODO Translate [Reference] ''Fraid I wasn't in the neighbourhood back then...'
-staxel.village.dialogue.Mechanic.line:10010100=
+staxel.village.dialogue.Mechanic.line:10010100=유감인데 내가 그땐 이 동네에 없었어가...
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, I hate to be the one to say this, but yer buildin' too much!'
-staxel.village.dialogue.Mechanic.line:10010200=
+staxel.village.dialogue.Mechanic.line:10010200=^c:1486b0;{0-playername}^c:pop;, 내도 니한테 이런 말 하긴 싫은데, 니 건축을 너무 마이 하고있다!
 //TODO Translate [Reference] 'At this rate, I'm never gonna be able to keep up with yer demand for resources!'
-staxel.village.dialogue.Mechanic.line:10010300=이대로 갔다간 
+staxel.village.dialogue.Mechanic.line:10010300=이대로 갔다간 내가 제대로 재료 공급을 못해주겠단 말이라!
 //TODO Translate [Reference] 'We jus' don' have the supplies...'
-staxel.village.dialogue.Mechanic.line:10010400=우린 그냥 공급이 부족한기라...
+staxel.village.dialogue.Mechanic.line:10010400=인자 재고가 부족해지고있다...
 //TODO Translate [Reference] 'Now...if ya'd be willin' to help with tha', we might be able to change things for the better!'
 staxel.village.dialogue.Mechanic.line:10010500=
 //TODO Translate [Reference] 'How about ya start with a quick survey of the island as a whole?'
